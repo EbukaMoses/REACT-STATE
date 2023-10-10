@@ -1,0 +1,7 @@
+body{
+  /* background: linear-gradient(45deg,white,rgb(3, 114, 151),white); */
+  background: linear-gradient(45deg,rgb(119, 118, 118), skyblue);
+}
+.states{
+  text-align: center;
+}
